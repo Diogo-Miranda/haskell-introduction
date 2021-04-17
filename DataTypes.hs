@@ -37,7 +37,7 @@ squared9 = 9 ** 2
 truncateVal = truncate 9.999
 roundVal = round 9.999
 ceilingVal = ceiling 9.999
-floorVal = floor 9.999
+floorVal = floor 100.999
 
 -- Also sin, cos, tan, asin, atan, acos
 
